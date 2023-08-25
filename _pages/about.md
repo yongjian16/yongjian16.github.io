@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD of UIOWA</a>. Contacts: yongjian-zhong@uiowa.edu.
+subtitle: <a href='#'>PhD of UIOWA</a>.
 
 profile:
   align: right
