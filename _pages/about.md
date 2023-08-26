@@ -21,8 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hello!
 
-Yongjian is a PhD student in Department of Computer Science at University of Iowa, advised by Prof. Bijaya Adhikari. He also works with Prof. Tianbao Yang. His research interests primarily lie in graph representation learning, statistical and algorithmic foundation of reinforcement learning and solving combinatorial optimization problems with machine learning.
+Yongjian is a PhD student in Department of Computer Science at University of Iowa, advised by Prof. [Bijaya Adhikari](https://homepage.cs.uiowa.edu/~badhikari/). He also works with Prof. [Tianbao Yang](http://people.tamu.edu/~tianbao-yang/index.html). His research interests primarily lie in graph representation learning, statistical and algorithmic foundation of reinforcement learning and solving combinatorial optimization problems with machine learning.
 
-Before coming to uiowa, Yongjian obtained his Master and Bachelor degrees from School of Computer Science and School of Physics and Technology at Wuhan University, advised by Prof Du Bo and Prof Chang Xu.
+Before coming to uiowa, Yongjian obtained his Master and Bachelor degrees from School of Computer Science and School of Physics and Technology at Wuhan University, advised by Prof. [Bo Du](http://sigma.whu.edu.cn/) and Prof. [Chang Xu](http://changxu.xyz/).
 
 **Contact** : yongjian-zhong@uiowa.edu
