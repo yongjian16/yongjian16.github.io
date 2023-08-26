@@ -19,11 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello World!
+Hello!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Yongjian is a PhD student at University of Iowa, advised by Prof. Bijaya Adhikari. He also works with Prof. Tianbao Yang. His research interests primarily lie in graph learning, reinforcement learning and combinatorial optimization.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-[Google Scholar]([https://jpswalsh.github.io/academicons/](https://scholar.google.com/citations?user=NmvyvyEAAAAJ&hl=en)) 
-like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to uiowa, Yongjian obtained his Master and Bachelor degrees from Wuhan University, advised by Prof Du Bo and Prof Chang Xu.
