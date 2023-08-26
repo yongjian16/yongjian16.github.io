@@ -25,5 +25,4 @@ Yongjian is a PhD student in Department of Computer Science at University of Iow
 
 Before coming to uiowa, Yongjian obtained his Master and Bachelor degrees from School of Computer Science and School of Physics and Technology at Wuhan University, advised by Prof Du Bo and Prof Chang Xu.
 
-**Contact**
-Email: yongjian-zhong@uiowa.edu
+**Contact** : yongjian-zhong@uiowa.edu
