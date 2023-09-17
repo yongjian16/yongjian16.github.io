@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD of UIOWA</a>.
+subtitle: <a href='#'>PhD student of UIOWA</a>.
 
 profile:
   align: right
