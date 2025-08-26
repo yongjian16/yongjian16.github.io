@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-26 07:47:00-0400
+date: 2025-05-26 07:47:00-0400
 inline: true
 related_posts: false
 ---
 
-I will serve as a reviewer of AAAI 2024.
+One paper was accepted by ICML 2025.
